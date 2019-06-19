@@ -45,6 +45,7 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
+      "url": "https://github.com/darrendavidhumphrey/Arduino.git",
       "version": "~2.10002.190416"
     },
     "framework-espidf": {
